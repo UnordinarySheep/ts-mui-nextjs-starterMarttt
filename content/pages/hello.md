@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Empty page
+title: Blog
 sections:
   - type: HeroSection
     title: Blog
