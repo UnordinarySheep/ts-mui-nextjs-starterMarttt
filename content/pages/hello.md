@@ -4,7 +4,7 @@ title: Empty page
 sections:
   - type: HeroSection
     title: SereneSavvy
-    subtitle: The section subtitle
+    subtitle: Blog
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
