@@ -4,7 +4,7 @@ title: Empty page
 sections:
   - type: HeroSection
     title: Blog
-    subtitle: Blog
+    subtitle: News
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
